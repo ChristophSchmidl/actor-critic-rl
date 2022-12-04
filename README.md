@@ -26,7 +26,12 @@ If you run into compatibility issues between Pytorch and CUDA, in my case I coul
 - [Setting up a Reinforcement Learning Task with a Real-World Robot](https://arxiv.org/pdf/1803.07067.pdf)
 
 # Websites
-
+- [Vanilla Policy Gradient](https://spinningup.openai.com/en/latest/algorithms/vpg.html)
+- [Trust Region Policy Optimization](https://spinningup.openai.com/en/latest/algorithms/trpo.html)
+- [Proximal Policy Optimization](https://spinningup.openai.com/en/latest/algorithms/ppo.html)
+- [Deep Deterministic Policy Gradient](https://spinningup.openai.com/en/latest/algorithms/ddpg.html)
+- [Twin Delayed DDPG](https://spinningup.openai.com/en/latest/algorithms/td3.html)
+- [Soft Actor-Critic](https://spinningup.openai.com/en/latest/algorithms/sac.html)
 - [The idea behind Actor-Critics and how A2C and A3C improve them](https://theaisummer.com/Actor_critics/)
 
 
