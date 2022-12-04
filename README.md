@@ -12,3 +12,24 @@ This repository is basically a copy of the [repo](https://github.com/philtabor/A
 If you run into compatibility issues between Pytorch and CUDA, in my case I could resolve that by installing a specific Pytorch version for CUDA 11:
 
 - ``pip install torch==1.7.1+cu110 -f https://download.pytorch.org/whl/torch_stable.html``
+
+# Papers
+
+- DDPG/Deep Deterministic Policy Gradient : [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+- TRPO: [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
+- PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
+- A3C/Asynchronous Advantage Actor Critic: [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+- D4PG/Distributed Distributional DDPG: [Distributed Distributional Deterministic Policy Gradients](https://openreview.net/pdf?id=SyZipzbCb)
+- [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/pdf/1604.06778)
+- [Setting up a Reinforcement Learning Task with a Real-World Robot](https://arxiv.org/pdf/1803.07067.pdf)
+
+# Websites
+
+- [The idea behind Actor-Critics and how A2C and A3C improve them](https://theaisummer.com/Actor_critics/)
+
+
+
+
+
+
+
